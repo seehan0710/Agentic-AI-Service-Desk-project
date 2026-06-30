@@ -1,0 +1,6 @@
+{
+  "name": "Agentic AI Service Desk",
+  "description": "An intelligent full-stack IT service desk portal powered by a RAG-enabled Gemini AI support agent that diagnoses issues, searches knowledge bases, and auto-escalates unresolved cases to specialized engineering teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
